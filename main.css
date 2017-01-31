@@ -1,0 +1,27 @@
+  .col-12 {
+  	width: 100%;
+  	text-align: left;
+  	padding: 15px;
+  }
+
+.orange {
+	background-color: orange;
+}
+
+p {
+	font-size: 12px;
+}
+
+.col-4 {
+	width: 33%;
+}
+
+img {
+	width: 100%;
+}
+
+.bio {
+	width: 100%;
+	border: 1px solid lightgrey;
+	padding-left: 15px;
+}
